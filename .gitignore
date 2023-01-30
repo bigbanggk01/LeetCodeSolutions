@@ -1,3 +1,6 @@
-./Program.cs
-./*csproj
-./gitignore
+Program.cs
+*.csproj
+.gitignore
+.vscode/
+obj/
+bin/
