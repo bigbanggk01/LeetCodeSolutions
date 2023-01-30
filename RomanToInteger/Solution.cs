@@ -46,7 +46,6 @@ namespace LeetCode.RomanToInteger
                 }
             }
 
-
             return result;
         }
     }
